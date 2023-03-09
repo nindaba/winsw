@@ -1,0 +1,17 @@
+2023-03-09 12:59:23,348 DEBUG - Starting WinSW in console mode
+2023-03-09 12:59:28,517 DEBUG - Starting WinSW in console mode
+2023-03-09 12:59:28,537 INFO  - Installing service 'Jenkins (jenkins)'...
+2023-03-09 12:59:28,541 FATAL - Failed to open the service control manager database. Access is denied.
+2023-03-09 12:59:54,259 DEBUG - Starting WinSW in console mode
+2023-03-09 12:59:58,245 DEBUG - Starting WinSW in console mode
+2023-03-09 12:59:58,266 INFO  - Installing service 'web (web)'...
+2023-03-09 12:59:58,270 FATAL - Failed to open the service control manager database. Access is denied.
+2023-03-09 13:02:51,365 DEBUG - Starting WinSW in console mode
+2023-03-09 13:02:51,385 INFO  - Installing service 'web (web)'...
+2023-03-09 13:02:51,389 FATAL - Failed to open the service control manager database. Access is denied.
+2023-03-09 13:03:06,026 DEBUG - Starting WinSW in console mode
+2023-03-09 13:03:06,045 INFO  - Installing service 'web (web)'...
+2023-03-09 13:03:06,049 FATAL - Failed to open the service control manager database. Access is denied.
+2023-03-09 13:05:33,581 DEBUG - Starting WinSW in console mode
+2023-03-09 13:05:33,600 INFO  - Installing service 'web (web)'...
+2023-03-09 13:05:33,604 FATAL - Failed to open the service control manager database. Access is denied.
